@@ -1,0 +1,38 @@
+---
+comments: true
+date: 2007-09-19 12:27:42
+layout: post
+slug: pirates
+title: Pirates?
+wordpress_id: 177
+categories:
+  - post
+  - Photos
+tags:
+  - flickr
+  - photo
+  - pirates
+pagination:
+  enabled: true
+---
+
+[![](/post-assets/2007-09-19-pirates/skull_crossbones_800.jpg)](/post-assets/2007-09-19-pirates/skull_crossbones_800.jpg)
+So I just happened to upload this picture on to [my flickr pages](http://www.flickr.com/photos/chrisfleming/) in the early hours of the morning,
+not because of [talk like a pirate day](http://www.yarr.org.uk/), but as part of my general sorting out of my photos taken over the Summer.
+However because of the pirate theme, it has made it's way onto the "Interesting" page on flickr!
+
+We had stopped at [Melrose Abbey](http://www.flickr.com/photos/chrisfleming/1404515378/)
+on the way back from [Katherine and Colin's wedding](http://www.chrisfleming.org/gallery2/v/friends/Katherine_and_Colins_Wedding/),
+and I took this picture while walking about on a fine sunny day.
+
+**UPDATE:**Thanks to [http://www.syddware.com/cgi-bin/pirate.pl](http://www.syddware.com/cgi-bin/pirate.pl)
+
+A sea dog says 't this way:
+So I jus' happened t' upload this picture on t' me flickr pages in th' early hours o' th' mornin', nay on accoun' o' o' talk like a  
+swashbuckler tide, but as part o' me general sortin' ou' o' me photos taken o'er th' Summer. Howerebecause o' th' swashbuckler theme,
+'t has made 'tis way onto th' "Interesting" page on flickr!
+This picture be taken at Melrose Abbey on th' way aft from Katherine an' Colin`s weddin', on a fine sunny tide.
+Ya scurvy dog who ortin' t' be keel hauled!
+
+**UPDATE2:**Thanks to comments on Flickr, the Latin above reads "memento mori" or "remember you are mortal",
+or something of that ilk? (someone else recons "Mei Entomo") anyone any ideas?

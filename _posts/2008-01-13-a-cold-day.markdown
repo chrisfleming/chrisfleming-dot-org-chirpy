@@ -1,0 +1,23 @@
+---
+comments: true
+date: 2008-01-13 13:19:52
+layout: post
+slug: a-cold-day
+title: A Cold day.
+wordpress_id: 180
+categories:
+  - Photos
+tags:
+  - canal
+  - ducks
+  - edinburgh
+  - forth and union
+  - ice
+  - winter
+---
+
+[{% include image.html url="http://farm3.static.flickr.com/2040/2187948846_a2f39b37e4_b.jpg" caption="The shadow looks almost 3D in the ice." %}](http://farm3.static.flickr.com/2040/2187948846_a2f39b37e4_b.jpg)
+
+[{% include image.html url="http://farm3.static.flickr.com/2137/2188825963_fa352ac472_b.jpg" caption="The view from the front" %}](http://farm3.static.flickr.com/2137/2188825963_fa352ac472_b.jpg)
+
+I took these pictures at the Lochrin basin at the end of the union canal. The sun was just warm enough to melt the ice, but anything in the shade remained icy. Full size versions are available on [Flickr](http://www.flickr.com/photos/chrisfleming/2187948846/in/photostream/)

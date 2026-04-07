@@ -1,0 +1,22 @@
+---
+comments: true
+date: 2007-02-11 14:52:25
+layout: post
+slug: my-space
+title: My space...
+wordpress_id: 168
+categories:
+- Geeky
+tags:
+- facebook
+- myspace
+---
+
+Right I have to admit I not a big fan of myspace. I don't like the fact that every page seems to make noise. I have my own music/tv/whatever happening and I don't like the intrusion. Then there are the awful templates that most people seem to apply to the page.
+Despite this it does seem to be one of the most popular websites in whatever country you look, so I have an account. I was looking round yesterday to see if anyone from my old School was on and I spotted the fiollowing:
+![](/uploads/myspace_fk.gif)
+It  may be minor, but the profile Updated is shown as {ts '2007-02-06 13:06:06'}. The whole {ts ' '} thing shouldn't be displayed, this is just shoddy. Furthermore I just tried to run the same search and recieved an error:
+**
+Sorry! an unexpected error has occurred.
+This error has been forwarded to MySpace's technical group.**
+So maybe they've taken down the serach facility to fix these kind of errors, but this isn't the first time that I've seen these errors and you would expect the quality of a site the size of myspace to be much better.
