@@ -11,8 +11,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
+- type: feed
   icon: "fas fa-rss"
+  url: '/atom.xml'
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #

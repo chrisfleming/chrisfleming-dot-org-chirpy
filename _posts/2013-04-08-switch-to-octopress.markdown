@@ -10,7 +10,6 @@ So almost as often as I post, I rewrite the site. This time I have switched it t
 
 {% include image.html url="/post-assets/2010-01-21-new-year-new-blog-probably-the-same-old-story/website_before.png" caption="Serendipity Site" %}
 {% include image.html url="/post-assets/2010-01-21-new-year-new-blog-probably-the-same-old-story/website_new.png" caption="Wordpress Site" %}
-{% include image.html url="/post-assets/2013-04-08-switch-to-octopress/site_screenshot_octopress_310.jpg" caption="Octopress Site" %}
 
 I don't get enough hits to justify the performance need of a static site, but it has the advantage of being one less wordpress site to maintain, and for me writting posts using 
 markdown in vim is a definite win.

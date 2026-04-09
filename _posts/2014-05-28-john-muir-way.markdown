@@ -9,14 +9,14 @@ So the [John Muir Way](http://johnmuirway.org/) has been open since the 21st of 
 
 We've covered most of the route in OpenStreetMap for a while. But until recently we've had a tiny gap missing. I was trying to figure out getting over to do it when I saw Martin McMahon had filled it in with a 9-mile walk between train stations—great effort!
 
-[twitter: to map that gap took 2 trains 1 to Helensburgh a 9 miles walk then train from Balloch. Great day](/post-assets/2014-05-25-john-muir-way/twitter.webp)
+[twitter: to map that gap took 2 trains 1 to Helensburgh a 9 miles walk then train from Balloch. Great day](/post-assets/2014-05-28-john-muir-way/twitter.webp)
 
 So with some not insignificant effort, we now have the complete route mapped. These can easily be seen by looking at a raw view of either the [walking route](http://www.openstreetmap.org/relation/49215) or the [cycling route](http://www.openstreetmap.org/relation/3619145) on OpenStreetMap.
 
 But where OSM comes into its own is the ability to actually do things with the data, so to kick things off I've created a set of GPX files of the route. These contain the full walking or cycling route and are suitable to be loaded into your GPS or phone app as aids to navigating the route.
 
-- [john_muir_way_cycling.gpx](/post-assets/2014-05-28-john-muir-way/john_muir_way_cycling.gpx)
-- [john_muir_way_walking.gpx](post-assets/2014-05-28-john-muir-way/john_muir_way_walking.gpx)
+- [john_muir_way_cycling.gpx](/post-assets/2014-05-28-john-muir-way/cycling.gpx)
+- [john_muir_way_walking.gpx](/post-assets/2014-05-28-john-muir-way/walking.gpx)
 
 Map wise, as always I'm disappointed to see the otherwise very nice John Muir Way website using Google Maps rather than an OpenStreetMap based map:
 

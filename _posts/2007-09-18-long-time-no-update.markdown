@@ -20,10 +20,10 @@ It's been a long crazy summer and I've not had time to update this for a while. 
 Here are July's highlights:
 
 Watching the Tour De France fly past.
-[![Watching the Tour De France fly past.](http://www.chrisfleming.org/gallery2/d/6289-1/img_1938.jpg)](/gallery2/d/6285-2/img_1942.jpg)
+[![Watching the Tour De France fly past.](http://www.chrisfleming.org/gallery2/d/6289-1/img_1938.jpg)](https://chrisfleming.org/gallery/var/resizes/forWebsite/img_1938.jpg?m=1365537647)
 
 
 Group photo at the end of the [OpenStreetMap](http://www.openstreetmap.com) Conference in July 2007.
-[![](http://www.chrisfleming.org/gallery2/d/6290-2/Everyone.jpg)](/gallery2/d/6094-2/Everyone.jpg)
+[![](http://www.chrisfleming.org/gallery2/d/6290-2/Everyone.jpg)](https://www.chrisfleming.org/gallery/var/resizes/SOTM07/Everyone.jpg?m=1365539281)
 
 More picture on [my flickr page.](http://www.flickr.com/photos/chrisfleming/)
