@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/chrisfl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://chrisfleming.org
+  * I am chrisfl (https://keybase.io/chrisfl) on keybase.
+  * I have a public key with fingerprint 9AD9 591B 96A8 9A29 A138  76FD 377F 27CF 0088 1378
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9ad9591b96a89a29a13876fd377f27cf00881378",
+            "host": "keybase.io",
+            "key_id": "377f27cf00881378",
+            "uid": "640379bbd02428ea230673517612f700",
+            "username": "chrisfl"
+        },
+        "service": {
+            "hostname": "chrisfleming.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1410983396,
+    "expire_in": 157680000,
+    "prev": "c7cfc345eab8046487e9d59032ea452af5f4da591068cb9339835feb6cb8172e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.3
+Comment: https://keybase.io/crypto
+
+yMHmAnicO8LLzMDFKMTbstCaPfMv4+kDX0oZQiSfPqlWSspPqVSyqlbKTgVTaZl5
+6alFBUWZeSVKVkqWiSmWppaGSZZmiRaWiUaWiYbGFuZmaSnG5uZpRubJaQYGFhaG
+xuYWSjpKGfnFIB1AY5ISi1P1MvOBYkBOfGYKUBSL+lKwhJmJgbG5ZVJSioGRiZFF
+aqKRsYGZubGpobmZoVGauYEBSGFxalFeYm4qUHVyRlFmcVqOUq2OElCwLDM5FeRk
+kM2oClJzgb7Qyy9KB2ovKMovyU/OzwHKZpSUFFiBNJdUFoBUl6cmxUPNiU/KzEsB
+agJqKEstKs7Mz1OyMgSqTC7JBBlsaGJoYGlhbGxppqOUWlGQWZQanwlSYWpuZmEA
+BCBrUstADgB6MtnYxDQ1McnCwMTMxMI81TLF1NLA2Cg10cTUKDHNNM0kJREYpAZm
+FslJlkATLYxN01KTzJKTLAzNjVKVQD4rzMtXsjIGOjMxHWhkcWZ6XmJJaVGqUu2h
+AzEsDIxcDGysTKDIY+DiFIBHaQn7LybWRjVDf7lP8UJPTXR9Fole2GAyV9NF/n+Z
+QdHx92mhIr+WJKyacOHAwbZ1flx9QR92btS+ul9dZ0HI9Ie/n+8QdpMMWpL+QtIt
+rUZi9cP1vjO4d7CJ/N34R+Hvts3Hj9z8/iNTXF+IQdXfv+a+kXLfcYUfIRNOhIRf
+NOZ6+JFz+mx/ZunaX3u29HzNOhh23OaC1kJB3/4XZe9lPgfpMB5TvaC7aEG1HVOh
+yxVJl5COVcGvu36HqMkG3n+0/YrJuaU/va81MscbKItFM5wUT5tz2vydWYVm7nM3
+hgze1+xTeJbHN/dUbY+bKiX9pFjr+DK5266/BeafOZa1eQ7bQbetrzZuOZ41U+X3
+4aiLmgAgdw8S
+=KOPT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chrisfl
+
+==================================================================
